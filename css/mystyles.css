@@ -1,0 +1,20 @@
+#lead-overlay{
+background-color: rgba(20,40,100,0.8)
+}
+.vtimeline-icon{
+    background:rgba(20,40,100,0.8)
+}
+
+#mobile-menu-open{
+    color:rgba(20,40,100,0.8)
+}
+
+a {
+    color:rgba(20,40,100,0.8);
+    text-decoration: none;
+}
+
+address > a{
+    color:white;
+    text-decoration: none;
+}
